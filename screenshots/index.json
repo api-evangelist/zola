@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "zola",
+    "captured_at": "2026-10-11T194333",
+    "source_url": "https://www.zola.com",
+    "source_type": "Website",
+    "file": "zola-2026-10-11T194333.png",
+    "bytes": 932775,
+    "capture": "playwright-local"
+  }
+]
